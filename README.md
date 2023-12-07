@@ -25,7 +25,3 @@ I've immortalized it here as a reference. Feel free to pick it apart ;)
     1. [Python](https://www.python.org/downloads) v2.7.x (or later, but I haven't tested 3+).
 * What you do
     1. Run the script! It's that easy.
-
-### Who do I talk to? ###
-
-* [richardleesimpson@gmail.com](mailto:richardleesimpson@gmail.com)
